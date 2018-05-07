@@ -1,11 +1,3 @@
-/*	SOURCE CODE
- * 	written by: Shashikant Kadam, Vassant Shirodkar
- * 	This is the source code of "ONE PASS SIC/XE" assembler
- * 	This was made as project for subject "SYSTEM PROGRAMMING"
- * 	We assure you that we have written this code from scratch and did not do any kind of malpractice such as copying from friend/internet
- * 	We assure you that we tried our best to make our program bug free 
- * 	For compilation guide and input restrictions, see README.txt
- */
 #include<iostream>						//for console input/output
 #include<cstdlib>						//for atoi() function
 #include<iomanip>						//for setw() and setfill()
